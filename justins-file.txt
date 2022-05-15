@@ -6,3 +6,7 @@ I love potatoes
 Boil em
 Mash em
 Stick em in a large container
+mix with cheese
+.cheese {
+    everything: needs cheese
+}
